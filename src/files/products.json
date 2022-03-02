@@ -1,0 +1,62 @@
+[
+  {
+    "name": "prueba1",
+    "description": "objeto de prueba 1",
+    "code": "001",
+    "image": "https://citizengo.org/sites/default/files/images/test_3.png",
+    "price": 100,
+    "stock": 200,
+    "id": 1,
+    "timestamp": 1646229020500
+  },
+  {
+    "name": "prueba2",
+    "description": "objeto de prueba 2 modificado",
+    "code": "002M",
+    "image": "https://citizengo.org/sites/default/files/images/test_3.png",
+    "price": 100,
+    "stock": 200,
+    "id": 2,
+    "timestamp": 1646074346849
+  },
+  {
+    "name": "prueba3",
+    "description": "objeto de prueba 3",
+    "code": "003",
+    "image": "https://citizengo.org/sites/default/files/images/test_3.png",
+    "price": 100,
+    "stock": 200,
+    "id": 3,
+    "timestamp": 1646073754355
+  },
+  {
+    "name": "prueba4",
+    "description": "objeto de prueba 4",
+    "code": "004",
+    "image": "https://citizengo.org/sites/default/files/images/test_3.png",
+    "price": 100,
+    "stock": 200,
+    "id": 4,
+    "timestamp": 1646229420369
+  },
+  {
+    "name": "prueba5",
+    "description": "objeto de prueba 5",
+    "code": "005",
+    "image": "https://citizengo.org/sites/default/files/images/test_3.png",
+    "price": 100,
+    "stock": 200,
+    "id": 5,
+    "timestamp": 1646229390252
+  },
+  {
+    "name": "prueba6",
+    "description": "objeto de prueba 6",
+    "code": "006",
+    "image": "https://citizengo.org/sites/default/files/images/test_3.png",
+    "price": 100,
+    "stock": 0,
+    "id": 6,
+    "timestamp": 1646229374435
+  }
+]
