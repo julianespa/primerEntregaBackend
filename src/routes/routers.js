@@ -56,7 +56,7 @@ router.delete('/cart/:id',(req,res)=>{
 router.get('/cart/:id/products',(req,res)=>{
     let id = req.params.id
     cartService.get(id)
-    .then(r=>res.send(r.payload.products))
+    .then(r=>res.send(r.payload ? r.payload.products : r.message))
 })
 
 router.post('/cart/:id/products',(req,res)=>{
