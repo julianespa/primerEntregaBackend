@@ -20,6 +20,9 @@
     "products": [
       {
         "idProd": 5
+      },
+      {
+        "idProd": 3
       }
     ]
   },
